@@ -38,7 +38,7 @@ This work was done as part of the capstone project for a **Core Python training 
     * Minimum, Maximum and Average distance
 2. **Badge based on workout data**: The badge types and conditions for badge assignment are given below:
     * *No Badge* : If breaks in last 7 days
-    * *APPRENTICE* : No breaks in last 7 days.
+    * *APPRENTICE* : No breaks in last 14 days.
     * *PILGRIM* : No breaks in last 7 days.
     * *CHAMP* : Maximum 2 breaks in last 30 days.
     * *HERO* : Maximum 2 breaks in last 60 days.
