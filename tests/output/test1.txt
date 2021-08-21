@@ -1,0 +1,43 @@
+Welcome to the Health Tracker App!
+
+Please enter the following details:
+Enter your name: Enter your gender(M/F/O): Enter your age(years): Enter your weight(kgs): Enter your height(cms): 
+Please enter the workout records:
+Refer tracker docs for record format
+Enter day 1 workout details, press ENTER to finish:Enter day 2 workout details, press ENTER to finish:Enter day 3 workout details, press ENTER to finish:Enter day 4 workout details, press ENTER to finish:Enter day 5 workout details, press ENTER to finish:Enter day 6 workout details, press ENTER to finish:Enter day 7 workout details, press ENTER to finish:Enter day 8 workout details, press ENTER to finish:
+Hi, John Doe
+Your BMI : 24.9
+Your weight is perfect. Keep it up!
+
+------- Workout stats over last 7 days -------
+Max distance (km): 7.24
+Min distance (km): 2.67
+Avg distance (km): 5.39
+Max speed (km/h) : 5.87
+Min speed (km/h) : 3.05
+Avg spped (km/h) : 4.94
+
+------- Workout stats over last 30 days -------
+Max distance (km): 7.24
+Min distance (km): 2.67
+Avg distance (km): 5.39
+Max speed (km/h) : 5.87
+Min speed (km/h) : 3.05
+Avg spped (km/h) : 4.94
+
+------- Overall Workout stats -------
+Max distance (km): 7.24
+Min distance (km): 2.67
+Avg distance (km): 5.39
+Max speed (km/h) : 5.87
+Min speed (km/h) : 3.05
+Avg spped (km/h) : 4.94
+
+Your current badge: APPRENTICE
+Lets keep at this, and get to the next level
+
+------- Streaks data ------
+Current streak : 7
+Best streak in last 30 days: 7
+Best overall streak : 7
+

@@ -1,0 +1,43 @@
+Welcome to the Health Tracker App!
+
+Please enter the following details:
+Enter your name: Enter your gender(M/F/O): Enter your age(years): Enter your weight(kgs): Enter your height(cms): 
+Please enter the workout records:
+Refer tracker docs for record format
+Enter day 1 workout details, press ENTER to finish:Enter day 2 workout details, press ENTER to finish:Enter day 3 workout details, press ENTER to finish:Enter day 4 workout details, press ENTER to finish:Enter day 5 workout details, press ENTER to finish:Enter day 6 workout details, press ENTER to finish:Enter day 7 workout details, press ENTER to finish:Enter day 8 workout details, press ENTER to finish:Enter day 9 workout details, press ENTER to finish:Enter day 10 workout details, press ENTER to finish:Enter day 11 workout details, press ENTER to finish:Enter day 12 workout details, press ENTER to finish:Enter day 13 workout details, press ENTER to finish:Enter day 14 workout details, press ENTER to finish:Enter day 15 workout details, press ENTER to finish:Enter day 16 workout details, press ENTER to finish:Enter day 17 workout details, press ENTER to finish:Enter day 18 workout details, press ENTER to finish:Enter day 19 workout details, press ENTER to finish:Enter day 20 workout details, press ENTER to finish:Enter day 21 workout details, press ENTER to finish:Enter day 22 workout details, press ENTER to finish:Enter day 23 workout details, press ENTER to finish:Enter day 24 workout details, press ENTER to finish:Enter day 25 workout details, press ENTER to finish:Enter day 26 workout details, press ENTER to finish:Enter day 27 workout details, press ENTER to finish:Enter day 28 workout details, press ENTER to finish:Enter day 29 workout details, press ENTER to finish:
+Hi, John Doe
+Your BMI : 24.9
+Your weight is perfect. Keep it up!
+
+------- Workout stats over last 7 days -------
+Max distance (km): 7.24
+Min distance (km): 2.67
+Avg distance (km): 5.39
+Max speed (km/h) : 5.87
+Min speed (km/h) : 3.05
+Avg spped (km/h) : 4.94
+
+------- Workout stats over last 30 days -------
+Max distance (km): 7.24
+Min distance (km): 2.67
+Avg distance (km): 5.39
+Max speed (km/h) : 5.87
+Min speed (km/h) : 3.05
+Avg spped (km/h) : 4.94
+
+------- Overall Workout stats -------
+Max distance (km): 7.24
+Min distance (km): 2.67
+Avg distance (km): 5.39
+Max speed (km/h) : 5.87
+Min speed (km/h) : 3.05
+Avg spped (km/h) : 4.94
+
+Your current badge: PILGRIM
+Lets keep at this, and get to the next level
+
+------- Streaks data ------
+Current streak : 28
+Best streak in last 30 days: 28
+Best overall streak : 28
+
