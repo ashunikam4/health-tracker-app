@@ -34,7 +34,7 @@ Min speed (km/h) : 3.05
 Avg spped (km/h) : 4.94
 
 Your current badge: APPRENTICE
-Lets keep at this, and get to the next level
+Lets keep at this, and get to the next badge
 
 ------- Streaks data ------
 Current streak : 7

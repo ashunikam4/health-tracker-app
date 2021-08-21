@@ -4,40 +4,40 @@ Please enter the following details:
 Enter your name: Enter your gender(M/F/O): Enter your age(years): Enter your weight(kgs): Enter your height(cms): 
 Please enter the workout records:
 Refer tracker docs for record format
-Enter day 1 workout details, press ENTER to finish:Enter day 2 workout details, press ENTER to finish:Enter day 3 workout details, press ENTER to finish:Enter day 4 workout details, press ENTER to finish:Enter day 5 workout details, press ENTER to finish:Enter day 6 workout details, press ENTER to finish:Enter day 7 workout details, press ENTER to finish:Enter day 8 workout details, press ENTER to finish:
+Enter day 1 workout details, press ENTER to finish:Enter day 2 workout details, press ENTER to finish:Enter day 3 workout details, press ENTER to finish:Enter day 4 workout details, press ENTER to finish:Enter day 5 workout details, press ENTER to finish:Enter day 6 workout details, press ENTER to finish:Enter day 7 workout details, press ENTER to finish:Enter day 8 workout details, press ENTER to finish:Enter day 9 workout details, press ENTER to finish:Enter day 10 workout details, press ENTER to finish:Enter day 11 workout details, press ENTER to finish:Enter day 12 workout details, press ENTER to finish:Enter day 13 workout details, press ENTER to finish:Enter day 14 workout details, press ENTER to finish:Enter day 15 workout details, press ENTER to finish:Enter day 16 workout details, press ENTER to finish:Enter day 17 workout details, press ENTER to finish:Enter day 18 workout details, press ENTER to finish:Enter day 19 workout details, press ENTER to finish:Enter day 20 workout details, press ENTER to finish:Enter day 21 workout details, press ENTER to finish:Enter day 22 workout details, press ENTER to finish:Enter day 23 workout details, press ENTER to finish:Enter day 24 workout details, press ENTER to finish:Enter day 25 workout details, press ENTER to finish:Enter day 26 workout details, press ENTER to finish:Enter day 27 workout details, press ENTER to finish:Enter day 28 workout details, press ENTER to finish:Enter day 29 workout details, press ENTER to finish:Enter day 30 workout details, press ENTER to finish:Enter day 31 workout details, press ENTER to finish:Enter day 32 workout details, press ENTER to finish:Enter day 33 workout details, press ENTER to finish:Enter day 34 workout details, press ENTER to finish:Enter day 35 workout details, press ENTER to finish:Enter day 36 workout details, press ENTER to finish:Enter day 37 workout details, press ENTER to finish:Enter day 38 workout details, press ENTER to finish:Enter day 39 workout details, press ENTER to finish:Enter day 40 workout details, press ENTER to finish:Enter day 41 workout details, press ENTER to finish:Enter day 42 workout details, press ENTER to finish:Enter day 43 workout details, press ENTER to finish:Enter day 44 workout details, press ENTER to finish:Enter day 45 workout details, press ENTER to finish:Enter day 46 workout details, press ENTER to finish:Enter day 47 workout details, press ENTER to finish:Enter day 48 workout details, press ENTER to finish:Enter day 49 workout details, press ENTER to finish:Enter day 50 workout details, press ENTER to finish:Enter day 51 workout details, press ENTER to finish:Enter day 52 workout details, press ENTER to finish:Enter day 53 workout details, press ENTER to finish:Enter day 54 workout details, press ENTER to finish:Enter day 55 workout details, press ENTER to finish:Enter day 56 workout details, press ENTER to finish:Enter day 57 workout details, press ENTER to finish:
 Hi, John Doe
-Your BMI : 24.9
-Your weight is perfect. Keep it up!
+Your BMI : 30.4
+You need to urgently cut down weight,otherwise you might suffer from heart diseases
 
 ------- Workout stats over last 7 days -------
 Max distance (km): 7.24
 Min distance (km): 2.67
-Avg distance (km): 5.07
-Max speed (km/h) : 5.76
+Avg distance (km): 5.34
+Max speed (km/h) : 5.87
 Min speed (km/h) : 3.05
-Avg spped (km/h) : 4.60
+Avg spped (km/h) : 4.85
 
 ------- Workout stats over last 30 days -------
 Max distance (km): 7.24
 Min distance (km): 2.67
-Avg distance (km): 5.07
-Max speed (km/h) : 5.76
+Avg distance (km): 5.44
+Max speed (km/h) : 5.87
 Min speed (km/h) : 3.05
-Avg spped (km/h) : 4.60
+Avg spped (km/h) : 4.93
 
 ------- Overall Workout stats -------
 Max distance (km): 7.24
 Min distance (km): 2.67
-Avg distance (km): 5.07
-Max speed (km/h) : 5.76
+Avg distance (km): 5.33
+Max speed (km/h) : 5.87
 Min speed (km/h) : 3.05
-Avg spped (km/h) : 4.60
+Avg spped (km/h) : 4.89
 
 You do not have any badges at this moment.
 Show more consistency to win badges.
 
 ------- Streaks data ------
-Current streak : 2
-Best streak in last 30 days: 2
-Best overall streak : 2
+Current streak : 6
+Best streak in last 30 days: 13
+Best overall streak : 15
 

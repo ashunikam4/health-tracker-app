@@ -6,7 +6,7 @@ Please enter the workout records:
 Refer tracker docs for record format
 Enter day 1 workout details, press ENTER to finish:Enter day 2 workout details, press ENTER to finish:Enter day 3 workout details, press ENTER to finish:Enter day 4 workout details, press ENTER to finish:Enter day 5 workout details, press ENTER to finish:Enter day 6 workout details, press ENTER to finish:Enter day 7 workout details, press ENTER to finish:Enter day 8 workout details, press ENTER to finish:Enter day 9 workout details, press ENTER to finish:Enter day 10 workout details, press ENTER to finish:Enter day 11 workout details, press ENTER to finish:Enter day 12 workout details, press ENTER to finish:Enter day 13 workout details, press ENTER to finish:Enter day 14 workout details, press ENTER to finish:Enter day 15 workout details, press ENTER to finish:Enter day 16 workout details, press ENTER to finish:Enter day 17 workout details, press ENTER to finish:Enter day 18 workout details, press ENTER to finish:Enter day 19 workout details, press ENTER to finish:Enter day 20 workout details, press ENTER to finish:Enter day 21 workout details, press ENTER to finish:Enter day 22 workout details, press ENTER to finish:Enter day 23 workout details, press ENTER to finish:Enter day 24 workout details, press ENTER to finish:Enter day 25 workout details, press ENTER to finish:Enter day 26 workout details, press ENTER to finish:Enter day 27 workout details, press ENTER to finish:Enter day 28 workout details, press ENTER to finish:Enter day 29 workout details, press ENTER to finish:
 Hi, John Doe
-Your BMI : 24.9
+Your BMI : 19.7
 Your weight is perfect. Keep it up!
 
 ------- Workout stats over last 7 days -------
@@ -34,7 +34,7 @@ Min speed (km/h) : 3.05
 Avg spped (km/h) : 4.94
 
 Your current badge: PILGRIM
-Lets keep at this, and get to the next level
+Lets keep at this, and get to the next badge
 
 ------- Streaks data ------
 Current streak : 28

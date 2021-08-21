@@ -55,7 +55,8 @@ class WorkoutRecordDB(object):
 
     def __count_breaks(self, period):
         """Count number of no-workout days in a period"""
-        if len(self.db) < period:
+        # Should have provided data for the entire period
+        if len(self.db) < period: 
             return float('inf')
         return self.db.loc[-period:, 'steps'].isna().sum()
 
